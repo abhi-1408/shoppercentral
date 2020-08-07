@@ -1,0 +1,128 @@
+[
+  {
+    "id": 101,
+    "name": "Xiaomi",
+    "price": 6000,
+    "cat": "mob",
+    "feat": "Screen Battery"
+  },
+  {
+    "id": 102,
+    "name": "Samsung",
+    "price": 39000,
+    "cat": "mob",
+    "feat": "Processor Battery"
+  },
+  {
+    "id": 103,
+    "name": "Apple",
+    "price": 45000,
+    "cat": "mob",
+    "feat": "Screen Battery"
+  },
+  {
+    "id": 104,
+    "name": "LAVA",
+    "price": 5000,
+    "cat": "mob",
+    "feat": "Screen Camera"
+  },
+  {
+    "id": 105,
+    "name": "Micromax",
+    "price": 6000,
+    "cat": "mob",
+    "feat": "4g Camer"
+  },
+  {
+    "id": 106,
+    "name": "Oppo",
+    "price": 9800,
+    "cat": "mob",
+    "feat": "Screen Battery"
+  },
+  {
+    "id": 107,
+    "name": "Vivo",
+    "price": 9000,
+    "cat": "mob",
+    "feat": "Screen Battery"
+  },
+  {
+    "id": 108,
+    "name": "Apple Xs",
+    "price": 90000,
+    "cat": "mob",
+    "feat": "Processor Battery"
+  },
+  {
+    "id": 109,
+    "name": "Vivo V9",
+    "price": 19000,
+    "cat": "mob",
+    "feat": "Screen Battery"
+  },
+  {
+    "id": 110,
+    "name": "Xiaomi A3",
+    "price": 15000,
+    "cat": "mob",
+    "feat": "FIngerprint Battery"
+  },
+  {
+    "id": 201,
+    "name": "Sony",
+    "price": 64000,
+    "cat": "cam",
+    "feat": "Lens Battery"
+  },
+  {
+    "id": 202,
+    "name": "Polaroid",
+    "price": 50000,
+    "cat": "cam",
+    "feat": "Angle Screen"
+  },
+  {
+    "id": 203,
+    "name": "Nikon",
+    "price": 84000,
+    "cat": "cam",
+    "feat": "Screen Battery"
+  },
+  {
+    "id": 204,
+    "name": "Canon",
+    "price": 76000,
+    "cat": "cam",
+    "feat": "Screen Battery"
+  },
+  {
+    "id": 205,
+    "name": "Canon 4D",
+    "price": 95000,
+    "cat": "cam",
+    "feat": "Screen Proj"
+  },
+  {
+    "id": 206,
+    "name": "Sony Mark 5d",
+    "price": 120000,
+    "cat": "cam",
+    "feat": "Angle Battery"
+  },
+  {
+    "id": 207,
+    "name": "Polaroid Nich",
+    "price": 45000,
+    "cat": "cam",
+    "feat": "Mp Battery"
+  },
+  {
+    "id": 208,
+    "name": "Nikon Eppl",
+    "price": 84000,
+    "cat": "cam",
+    "feat": "Screen Battery"
+  }
+]
